@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mBuilding webpack library bundles for triad1-fastopt in /home/bradly/Desktop/triad/triad1/target/streams/_global/_global/_global/streams/fastOptJS-webpack-libraries[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting scalajs.webpack.config.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: node /home/bradly/Desktop/triad/triad1/target/scala-2.13/scalajs-bundler/main/node_modules/webpack/bin/webpack --bail --profile --json --config /home/bradly/Desktop/triad/triad1/target/scala-2.13/scalajs-bundler/main/webpack-fastopt.config.js[0m
+[0m[[0m[0minfo[0m] [0m[0mVersion: 4.44.2[0m
+[0m[[0m[0minfo[0m] [0m[0mHash: ecf69bbf808094f16114[0m
+[0m[[0m[0minfo[0m] [0m[0mTime: 2049ms[0m
+[0m[[0m[0minfo[0m] [0m[0mPath: /home/bradly/Desktop/triad/triad1/target/scala-2.13/scalajs-bundler/main/dist[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt at 2021-10-12T10:24:27.836761[0m
+[0m[[0m[0minfo[0m] [0m[0m            Asset      Size                         Chunks[0m
+[0m[[0m[0minfo[0m] [0m[0m      favicon.ico      3870   [emitted]                 [][0m
+[0m[[0m[0minfo[0m] [0m[0m       index.html      1465   [emitted]                 [][0m
+[0m[[0m[0minfo[0m] [0m[0m    manifest.json       317   [emitted]                 [][0m
+[0m[[0m[0minfo[0m] [0m[0mtriad1-fastopt.js   5989995   [emitted]   [triad1-fastopt][0m

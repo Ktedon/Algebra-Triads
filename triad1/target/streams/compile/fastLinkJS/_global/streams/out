@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /home/bradly/Desktop/triad/triad1/target/scala-2.13/triad1-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 484048 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 31719 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 571039 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 150385 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 3420 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 788973 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 949822 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 87405 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 7528 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 106701 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 3147 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 939 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 8298 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 14148 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 495476 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 35323 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: The set of dangerous global refs has changed. Going to re-generate the world.[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 202881 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 3930 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 1042[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 3836[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 767226 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 201985 us[0m
