@@ -1,10 +1,12 @@
+:- [library(clpr)].
+
 % 1 == yes
 % 2 == no
 % 3 == null
 
-add(1, X0, Y0, X1, Y1) :- X1 is X0 + 1, Y1 is Y0 + 1
-add(2, X0, Y0, X1, Y1) :- X1 is X0 + 1, Y1 is Y0
-add(3, X0, Y0, X1, Y1) :- X1 is X0, Y1 is Y0
+add(1, X0, Y0, X1, Y1) :- X1 is X0 + 1, Y1 is Y0 + 1.
+add(2, X0, Y0, X1, Y1) :- X1 is X0 + 1, Y1 is Y0.
+add(3, X0, Y0, X1, Y1) :- X1 is X0, Y1 is Y0.
 
 calc([],
     [X0, X1, X2],
